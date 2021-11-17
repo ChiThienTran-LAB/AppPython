@@ -36,7 +36,7 @@ def tinhtien(out_data_2:tkinter.DoubleVar,dientieuthu:tkinter.DoubleVar,thue10:t
         out_data_2.set(done)
         sum = done + thue
         tongcong.set(sum)
-        capbac1.set(dien_tieu_thu)
+        capbac1.set(muc1)
         capbac2.set(dien_tieu_thu-muc1)
         capbac3.set(0)
         capbac4.set(0)
